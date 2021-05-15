@@ -7,7 +7,7 @@ fn naruhodo(n: i64) -> i64 {
 }
 
 fn digital_root(n: i64) -> i64 {
-    let sum :i64 = n.to_string()
+    let sum = n.to_string()
         .chars()
         .map(|c| c as i64 - 48)
         .sum();
