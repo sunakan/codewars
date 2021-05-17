@@ -1,3 +1,7 @@
 = codewars
 
 link:https://www.codewars.com/[^]
+
+
+6 kyu
+Pascal's Triangle
